@@ -11,7 +11,7 @@ Back-end : PHP
 
 Database : MySQL
 
-Database contains two Tables- User's details Table & Transaction Table
+Database contains two Tables- Accountholderinfo Table & Transaction Table
 
 User table have basic fields such as name, email ,current balance,ID,Details.
 Transaction table records all transfers happened 
